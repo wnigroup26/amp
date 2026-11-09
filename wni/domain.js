@@ -1,1 +1,1 @@
-https://jagakita.com
+https://linkportal.org/loginkita/
