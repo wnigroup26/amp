@@ -1,0 +1,1 @@
+https://ampkita.app/assets/slider1.webp

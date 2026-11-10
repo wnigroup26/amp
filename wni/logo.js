@@ -1,0 +1,1 @@
+https://relx.sgp1.cdn.digitaloceanspaces.com/wni/ms/logo-wnitogel.gif
