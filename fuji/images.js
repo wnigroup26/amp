@@ -1,1 +1,1 @@
-https://relx.sgp1.cdn.digitaloceanspaces.com/fuji/lp/gmbr1.webp
+https://relx.sgp1.cdn.digitaloceanspaces.com/global/lp/amp/gmbr1.webp
