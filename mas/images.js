@@ -1,0 +1,1 @@
+https://images.ampkita.app/wni/assets/slider1.avif
