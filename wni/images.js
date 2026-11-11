@@ -1,1 +1,1 @@
-https://ampkita.app/assets/slider1.webp
+https://relx.sgp1.cdn.digitaloceanspaces.com/global/lp/amp/amp-bannerslot.webp
