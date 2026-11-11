@@ -1,1 +1,1 @@
-https://images.ampkita.app/wni/assets/Slider1.avif
+https://images.ampkita.app/mas/assets/Slider1.avif
