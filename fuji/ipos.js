@@ -1,5 +1,5 @@
 const domains = [
-  jayabisnis.com",
-  kitakasih.com",
-  suratbisnis.com"
+  "jayabisnis.com",
+  "kitakasih.com",
+  "suratbisnis.com"
 ];
