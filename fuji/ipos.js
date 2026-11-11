@@ -1,3 +1,5 @@
-https://jayabisnis.com
-https://kitakasih.com
-https://suratbisnis.com
+const domains = [
+  jayabisnis.com
+  kitakasih.com
+  suratbisnis.com
+];
