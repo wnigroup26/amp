@@ -1,5 +1,5 @@
 const domains = [
   "fujitogel303.com",
-  "fujitogelsatu.com",
+  "fujitogel2.org",
   "fujisydney.com"
 ];
