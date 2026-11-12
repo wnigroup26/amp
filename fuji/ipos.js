@@ -1,5 +1,6 @@
 const domains = [
-  "fujitogel303.com",
-  "fujitogel2.org",
-  "fujisydney.com"
+  "fujitogel5.org",
+  "login1.fujitogel.live",
+  "login2.fujitogel.live",
+  "login3.fujitogel.live"
 ];
