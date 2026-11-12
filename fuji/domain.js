@@ -1,1 +1,1 @@
-https://fujitogel5.org
+https://fujitogel1.serverlogin.live
