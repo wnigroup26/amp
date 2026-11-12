@@ -1,1 +1,1 @@
-https://lipantoto77.com/
+https://lipantoto1.serverlogin.live/
