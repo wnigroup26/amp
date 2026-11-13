@@ -1,1 +1,1 @@
-https://relx.sgp1.cdn.digitaloceanspaces.com/global/lp/amp/gmbr1.webp
+https://images.ampkita.app/fuji/assets/Slider1.avif
