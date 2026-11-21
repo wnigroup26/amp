@@ -1,6 +1,6 @@
 const domains = [
-  "fiftoto.com",
-  "login1.fiftoto.com",
-  "login2.fiftoto.com",
-  "login3.fiftoto.com"
+  "fiftoto5.com",
+  "logn1.fiftoto.live",
+  "logn2.fiftoto.live",
+  "logn3.fiftoto.live"
 ];
